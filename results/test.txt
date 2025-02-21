@@ -1,0 +1,1 @@
+This folder contains the test data against various classes namely, benign, malignant and normal.
